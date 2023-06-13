@@ -1,3 +1,28 @@
+## clearpath_msgs (humble) - 0.0.3-2
+
+The packages in the `clearpath_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release clearpath_msgs -r humble -t humble` on `Tue, 13 Jun 2023 02:02:52 -0000`
+
+These packages were released:
+- `clearpath_msgs`
+- `clearpath_platform_msgs`
+
+Version of package(s) in repository `clearpath_msgs`:
+
+- upstream repository: https://github.com/clearpathrobotics/clearpath_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.3-1`
+- new version: `0.0.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## clearpath_msg (humble) - 0.0.3-1
 
 The packages in the `clearpath_msg` repository were released into the `humble` distro by running `/usr/bin/bloom-release clearpath_msg -r humble -t humble` on `Mon, 12 Jun 2023 17:58:40 -0000`

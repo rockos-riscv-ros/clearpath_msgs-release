@@ -1,0 +1,12 @@
+Source: ros-noetic-clearpath-msgs
+Section: misc
+Priority: optional
+Maintainer: Roni Kreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-clearpath-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-audio-recorder-msgs, ros-noetic-clearpath-configuration-msgs, ros-noetic-clearpath-control-msgs, ros-noetic-clearpath-dock-msgs, ros-noetic-clearpath-localization-msgs, ros-noetic-clearpath-mission-manager-msgs, ros-noetic-clearpath-mission-scheduler-msgs, ros-noetic-clearpath-navigation-msgs, ros-noetic-clearpath-platform-msgs, ros-noetic-clearpath-safety-msgs, ros-noetic-dingo-msgs, ros-noetic-husky-msgs, ros-noetic-jackal-msgs, ros-noetic-ptz-action-server-msgs, ros-noetic-ridgeback-msgs, ros-noetic-video-recorder-msgs, ros-noetic-warthog-msgs
+Description: Metapackage for Clearapth messages.

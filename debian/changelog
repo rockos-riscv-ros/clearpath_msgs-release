@@ -1,0 +1,13 @@
+ros-noetic-clearpath-mission-manager-msgs (0.9.1-1focal) focal; urgency=high
+
+
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Tue, 22 Aug 2023 04:00:00 -0000
+
+ros-noetic-clearpath-mission-manager-msgs (0.9.0-1focal) focal; urgency=high
+
+  * Initial release
+
+ -- Chris Iverach-Brereton <civerachb@clearpathrobotics.com>  Wed, 05 Jul 2023 04:00:00 -0000
+
+

@@ -1,0 +1,23 @@
+name: cpr_msgs_ci
+
+on:
+  push:
+    branches:
+      - '!noetic-devel'
+  pull_request:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
+
+jobs:
+  build_and_test:
+    name: noetic
+    strategy:
+      matrix:
+        env:
+          - {ROS_DISTRO: noetic, ROS_REPO: main}
+          - {ROS_DISTRO: noetic, ROS_REPO: testing}
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v3
+      - uses: 'ros-industrial/industrial_ci@master'
+        env: ${{matrix.env}}

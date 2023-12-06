@@ -2,27 +2,19 @@
 Changelog for package clearpath_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.9.5 (2023-11-03)
-------------------
-* Merge remote-tracking branch 'origin/noetic-devel' into ONAV-1771/on_start_stop_tasks
-* Contributors: Stephen Phillips
-
-0.9.4 (2023-10-20)
-------------------
-* Remove dependencies on packages not released to OSRF
-* Contributors: Chris Iverach-Brereton
-
-0.9.3 (2023-10-19)
+0.2.0 (2023-12-06)
 ------------------
 
-0.9.2 (2023-10-17)
-------------------
-* Fix over & underline length in changelogs
-* Contributors: Chris Iverach-Brereton
-
-0.9.1 (2023-08-22)
+0.0.4 (2023-06-20)
 ------------------
 
-0.9.0 (2023-07-05)
+0.0.3 (2023-06-12)
 ------------------
-* Initial release
+
+0.0.2 (2023-05-19)
+------------------
+
+0.0.1 (2023-05-02)
+------------------
+* Moved messages into clearpath_platform_msgs and created clearpath_msgs metapackage.
+* Contributors: Tony Baltovski

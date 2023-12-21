@@ -6,12 +6,12 @@ std_msgs/Header header
 # Robot Hardware ID
 string hardware_id
 
-# Firmware version
-string firmware_version
+# Firmware commit hash
+string firmware_commit
 
 # Times since MCU power-on.
-builtin_interfaces/Duration mcu_uptime
-builtin_interfaces/Duration connection_uptime
+std_msgs/Duration mcu_uptime
+std_msgs/Duration connection_uptime
 
 # Temperature of MCU's PCB in Celsius.
 float32 pcb_temperature

@@ -1,0 +1,12 @@
+Source: ros-noetic-clearpath-navigation-msgs
+Section: misc
+Priority: optional
+Maintainer: José Mastrangelo <jmastrangelo@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-message-runtime, ros-noetic-nav-msgs, ros-noetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-clearpath-navigation-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-message-runtime, ros-noetic-nav-msgs, ros-noetic-std-msgs
+Description: ROS package containing the message definitions for the Clearpath Robotics OutdoorNav navigation module.

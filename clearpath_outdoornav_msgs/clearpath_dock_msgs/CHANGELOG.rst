@@ -2,6 +2,11 @@
 Changelog for package clearpath_dock_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.8 (2024-03-11)
+------------------
+* Add additional messages for Network of Paths
+* Contributors: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>, Stephen Phillips <stphillips@clearpathrobotics.com>
+
 0.9.7 (2024-02-05)
 ------------------
 

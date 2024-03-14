@@ -2,6 +2,9 @@
 Changelog for package clearpath_mission_scheduler_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.9 (2024-03-14)
+------------------
+
 0.9.8 (2024-03-11)
 ------------------
 * Add additional messages for Network of Paths

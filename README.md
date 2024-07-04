@@ -1,3 +1,38 @@
+## clearpath_msgs (noetic) - 0.10.0-1
+
+The packages in the `clearpath_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -t noetic -r noetic clearpath_msgs` on `Thu, 04 Jul 2024 17:35:16 -0000`
+
+These packages were released:
+- `clearpath_camera_msgs`
+- `clearpath_configuration_msgs`
+- `clearpath_control_msgs`
+- `clearpath_dock_msgs`
+- `clearpath_localization_msgs`
+- `clearpath_logger_msgs`
+- `clearpath_mission_manager_msgs`
+- `clearpath_mission_scheduler_msgs`
+- `clearpath_msgs`
+- `clearpath_navigation_msgs`
+- `clearpath_platform_msgs`
+- `clearpath_safety_msgs`
+
+Version of package(s) in repository `clearpath_msgs`:
+
+- upstream repository: https://github.com/clearpathrobotics/clearpath_msgs.git
+- release repository: https://github.com/clearpath-gbp/clearpath_msgs-release.git
+- rosdistro version: `0.9.9-1`
+- old version: `0.9.9-1`
+- new version: `0.10.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## clearpath_msgs (noetic) - 0.9.9-1
 
 The packages in the `clearpath_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -t noetic -r noetic clearpath_msgs` on `Thu, 14 Mar 2024 16:48:28 -0000`

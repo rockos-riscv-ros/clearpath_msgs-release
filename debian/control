@@ -1,0 +1,12 @@
+Source: ros-humble-clearpath-msgs
+Section: misc
+Priority: optional
+Maintainer: Roni Kreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-clearpath-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-clearpath-platform-msgs, ros-humble-ros-workspace
+Description: Metapackage for Clearapth messages.

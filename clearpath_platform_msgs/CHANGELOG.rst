@@ -2,6 +2,15 @@
 Changelog for package clearpath_platform_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.0 (2025-01-13)
+------------------
+* Corrected A300 front light indices
+* A300 (`#63 <https://github.com/clearpathrobotics/clearpath_msgs/issues/63>`_)
+  * Added Lynx messages and actions
+  * Added A300 changes and enums
+  * Added temperature message
+* Contributors: Roni Kreinin, Tony Baltovski
+
 1.0.1 (2024-11-25)
 ------------------
 

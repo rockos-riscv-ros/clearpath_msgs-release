@@ -2,6 +2,9 @@
 Changelog for package clearpath_platform_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2025-01-31)
+------------------
+
 2.0.0 (2025-01-13)
 ------------------
 * Corrected A300 front light indices
